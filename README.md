@@ -3,7 +3,6 @@ My interest revolve around uncovering meaningful insights from data. I enjoy the
 I'm currently expanding my expertise by delving into advanced data analysis techniques, refining my proficiency in programming languages, mastering data visualization tools, and honing soft skills. Additionally, I am deepening my knowledge in database management. My goal is to enhance my skill set and contribute to organizations by facilitating data-driven decision-making processes.
 I'm seeking collaboration with cross-functional teams to share knowledge in predictive modelling, data-driven decision-making, and business intelligence. Additionally, I am eager to engage in projects involving programming languages and data visualization, where I can effectively communicate complex insights. Collaborating with data engineers for efficient database management is also an area of interest.
 I can be reached the follwing email address:justin.ekwem2@gmail.com and mobile nunber:+447823701857
-He/Him
 I'm a tech enthusiast and willing to sacrifice my time and effort to stay updated on the latest advancements, explore new technologies, and continuously enhance my skills in order to contribute effectively to innovative projects and solutions.
 
 <!---
